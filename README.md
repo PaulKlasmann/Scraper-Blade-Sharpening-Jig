@@ -8,12 +8,10 @@ The jig is intended to hold a scraper blade securely and at a controlled angle d
 
 ```text
 ScraperSharpeningJig_v1/
-├── CAD Files
-├── README.md
+├── FreeCAD Files
+├── STEP Files
 └── images/
-    ├── jig_01.png
-    ├── jig_02.png
-    └── jig_03.png
+    
 ```
 
 ## Description
