@@ -53,19 +53,19 @@ Swing for 20mm radius blades
 ![20mm radius blade swing](images/Blade_Swing_20mm.png)
 
 Swing for 40mm radius blades
-![40mm radius blade swing](images/Blade_Swing_20mm.png)
+![40mm radius blade swing](images/Blade_Swing_40mm.png)
 
 Swing for 60mm radius blades
-![60mm radius blade swing](images/Blade_Swing_20mm.png)
+![60mm radius blade swing](images/Blade_Swing_60mm.png)
 
 Swing for 90mm radius blades
-![90mm radius blade swing](images/Blade_Swing_20mm.png)
+![90mm radius blade swing](images/Blade_Swing_90mm.png)
 
 Swing for 90mm radius blades of width 25mm
-![90mm radius blade swing of width 25mm](images/Blade_Swing_20mm.png)
+![90mm radius blade swing of width 25mm](images/Blade_Swing_90mm_for 25mm_wide_blade.png)
 
 Swing for 140mm radius blades/Carbide Insert
-![140mm radius blade swing/Carbide Insert](images/Blade_Swing_20mm.png)
+![140mm radius blade swing/Carbide Insert](images/Blade_Swing_140mm.png)
 
 ### Jig in Use
 
