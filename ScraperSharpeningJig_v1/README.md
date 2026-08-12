@@ -47,15 +47,30 @@ Images of the sharpening jig are stored in the `images` folder.
 
 ![Blade mounting detail](images/jig_02.png)
 
+### Blade swings available for the current blade radii
+
+Swing for 20mm radius blades
+![20mm radius blade swing](images/Blade_Swing_20mm.png)
+
+Swing for 40mm radius blades
+![40mm radius blade swing](images/Blade_Swing_20mm.png)
+
+Swing for 60mm radius blades
+![60mm radius blade swing](images/Blade_Swing_20mm.png)
+
+Swing for 90mm radius blades
+![90mm radius blade swing](images/Blade_Swing_20mm.png)
+
+Swing for 90mm radius blades of width 25mm
+![90mm radius blade swing of width 25mm](images/Blade_Swing_20mm.png)
+
+Swing for 140mm radius blades/Carbide Insert
+![140mm radius blade swing/Carbide Insert](images/Blade_Swing_20mm.png)
+
 ### Jig in Use
 
 ![Scraper sharpening jig in use](images/jig_03.png)
 
-Additional images can be added using:
-
-```markdown
-![Description of image](images/filename.png)
-```
 
 ## Notes
 
