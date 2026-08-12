@@ -55,6 +55,12 @@ Scraper blade with 90mm radius mounted in the blade swing.  Any of the three hol
 
 ![Scraper sharpening jig](ScraperSharpeningJig_v1/images/Small_Base_with_90mm_radius_scraper_swing.png)
 
+### Two Baseplates, one for a max 90mm radius, the other for 140mm radius
+
+![Base_v1](ScraperSharpeningJig_v1/images/Base_v1.png)
+
+![Base_v2](ScraperSharpeningJig_v1/images/Base_v2.png)
+
 ### Blade swings available for the current blade radii
 
 Swing for 20mm radius blades
