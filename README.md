@@ -43,14 +43,6 @@ Images of the sharpening jig are stored in the `images` folder.
 
 ### Jig in Use
 
-![Scraper sharpening jig in use](ScraperSharpeningJig_v1/images/jig_03.png)
-
-### Sharpening Jig
-
-![Scraper sharpening jig](ScraperSharpeningJig_v1/images/Small_Base_with_90mm_radius_scraper_swing.png)
-
-### Blade Mounting Detail
-
 Scraper blade with 20mm radius mounted in the blade swing.  Any of the three holes in the first row may be used.
 
 ![Blade mounting detail](ScraperSharpeningJig_v1/images/Photo_20mm_radius.jpg)
@@ -58,6 +50,10 @@ Scraper blade with 20mm radius mounted in the blade swing.  Any of the three hol
 Scraper blade with 90mm radius mounted in the blade swing.  Any of the three holes in the fourth row may be used.
 
 ![Blade mounting detail](ScraperSharpeningJig_v1/images/Photo_20mm_radius.jpg)
+
+### Sharpening Jig Model
+
+![Scraper sharpening jig](ScraperSharpeningJig_v1/images/Small_Base_with_90mm_radius_scraper_swing.png)
 
 ### Blade swings available for the current blade radii
 
