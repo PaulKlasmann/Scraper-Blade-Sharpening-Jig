@@ -41,13 +41,23 @@ Hold blade in the swing for the appropriate tip radius. Bring to diamond wheel w
 
 Images of the sharpening jig are stored in the `images` folder.
 
+### Jig in Use
+
+![Scraper sharpening jig in use](ScraperSharpeningJig_v1/images/jig_03.png)
+
 ### Sharpening Jig
 
 ![Scraper sharpening jig](ScraperSharpeningJig_v1/images/Small_Base_with_90mm_radius_scraper_swing.png)
 
 ### Blade Mounting Detail
 
-![Blade mounting detail](ScraperSharpeningJig_v1/images/jig_02.png)
+Scraper blade with 20mm radius mounted in the blade swing.  Any of the three holes in the first row may be used.
+
+![Blade mounting detail](ScraperSharpeningJig_v1/images/Photo_20mm_radius.jpg)
+
+Scraper blade with 90mm radius mounted in the blade swing.  Any of the three holes in the fourth row may be used.
+
+![Blade mounting detail](ScraperSharpeningJig_v1/images/Photo_20mm_radius.jpg)
 
 ### Blade swings available for the current blade radii
 
@@ -69,14 +79,11 @@ Swing for 90mm radius blades of width 25mm
 Swing for 140mm radius blades/Carbide Insert
 ![140mm radius blade swing/Carbide Insert](ScraperSharpeningJig_v1/images/Blade_Swing_140mm.png)
 
-### Jig in Use
-
-![Scraper sharpening jig in use](ScraperSharpeningJig_v1/images/jig_03.png)
-
-
 ## Notes
 
-Add any additional notes, improvements, modifications, or recommended sharpening procedures here.
+To sharpen a blade or inserts to a radius of 140mm, use the longer base plate.
+
+When setting up the base plate with sqing to the correct angle, use the guage block to set the angle and make sure there is a gap of 1mm beterrn the diamond wheel and the front of the swing to ensure a correct radius is set.
 
 ## Version
 
