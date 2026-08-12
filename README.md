@@ -3,6 +3,10 @@
 This repository contains the design and construction details for my **scraper blade sharpening jig**.
 
 The jig is intended to hold a scraper blade securely and at a controlled angle during sharpening, making it easier to produce a consistent cutting edge.
+The scraper blade swings are designed to pivot at 20, 40, 60, 90 and 140mm from the diamond lapping wheel to ensure a well defined radius of the blade edge.
+There is an angle gauge block to set the base at an angle of -5 degree to give the sharpened blades a -5 degree rake for cast iron scraping.
+The hole guage allows the user to determine if they need to modify the 8mm hole in the parts.  The base should have a close sliding fit.
+The blase swings should have a friction fit when the 8mm diameter pivot pin is inserted.  See pictures below.
 
 ## Folder Structure
 
@@ -21,17 +25,17 @@ The sharpening jig was designed to provide a simple and repeatable method of sha
 It can be used to:
 
 - Hold the scraper blade securely.
-- Maintain a consistent sharpening angle.
-- Improve repeatability when sharpening several blades.
-- Reduce the chance of rounding or unevenly sharpening the cutting edge.
+- Maintain a consistent sharpening rake angle.
+- Improve repeatability when sharpening several blades to a given radius.
+- Reduce the chance of uneven rounding or unevenly sharpening the cutting edge.
 
 ## Construction
 
-Add details here describing the construction of the jig, materials used, dimensions, and any important design features.
+Any PLA or generally available plastic may be used.  The base holes are sliding fits, whereas the blase swings have a tight friction fit to the 8mm diameter pins to be used.
 
 ## Usage
 
-Add instructions here describing how the scraper blade is fitted into the jig and how the sharpening operation is performed.
+Hold blade in the swing for the appropriate tip radius. Bring to diamond wheel with LIGHT contact and pivot from side to side in an arc.
 
 ## Images
 
