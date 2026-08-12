@@ -8,6 +8,7 @@ The jig is intended to hold a scraper blade securely and at a controlled angle d
 
 ```text
 ScraperSharpeningJig_v1/
+├── CAD Files
 ├── README.md
 └── images/
     ├── jig_01.png
@@ -40,7 +41,7 @@ Images of the sharpening jig are stored in the `images` folder.
 
 ### Sharpening Jig
 
-![Scraper sharpening jig](images/jig_01.png)
+![Scraper sharpening jig](images/Small_Base_with_90mm_radius_scraper_swing.png)
 
 ### Blade Mounting Detail
 
