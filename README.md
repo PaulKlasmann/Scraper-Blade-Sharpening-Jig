@@ -50,7 +50,7 @@ Scraper blade with 20mm radius mounted in the blade swing.  Any of the three hol
 
 Scraper blade with 90mm radius mounted in the blade swing.  Any of the three holes in the fourth row may be used.
 
-![Blade mounting detail](ScraperSharpeningJig_v1/images/Photo_20mm_radius.jpg)
+![Blade mounting detail](ScraperSharpeningJig_v1/images/Photo_90mm_radius.jpg)
 
 ### Sharpening Jig Model
 
