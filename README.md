@@ -83,7 +83,6 @@ Swing for 140mm radius blades/Carbide Insert
 ![140mm radius blade swing/Carbide Insert](ScraperSharpeningJig_v1/images/Blade_Swing_140mm.png)
 
 Hole size calibration strip
-Swing for 20mm radius blades
 ![Hole size calibration strip](ScraperSharpeningJig_v1/images/Pivot_Hole_Calibration_Strip.png)
 
 ## Notes
