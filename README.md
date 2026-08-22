@@ -5,7 +5,7 @@ This repository contains the design and CAD files for my **scraper blade sharpen
 The jig is intended to hold Biax or other scraper blades or inserts securely and at a controlled angle during sharpening, making it easier to produce a consistent cutting edge.
 The scraper blade swings are designed to pivot at 20, 40, 60, 90 and 140mm from the diamond lapping wheel to ensure a well defined radius of the blade edge.
 There is an angle gauge block to set the base at an angle of -5 degree to give the sharpened blades a -5 degree rake for cast iron scraping.
-The hole guage allows the user to determine if they need to modify the 8mm hole in the parts.  The base should have a close sliding fit.
+The hole guage (rectangular part with a series of holes of differing diameters around 8.0mm) allows the user to determine if they need to modify the 8mm hole in the parts.  The base should have a close sliding fit.
 The base swings should have a tight friction fit when the 8mm diameter pivot pin is inserted.  Use 8.0mm diameter x 12mm or 14mm dowel/alignment pins.  See pictures below.
 
 ## Folder Structure
